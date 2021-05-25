@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section{
+    text-align: center;
+    margin-top: 15%;
+}
+
+section h1{
+    font-size: 64px;
+}
+
+section div{
+    font-size: 14px;
+    padding: 20px;
+}
+
+section div a{
+    text-decoration: none;
+    border-radius: 4px;
+    padding: 5px 15px;
+}
+
+section div .reload{
+    border: 1px solid #2a9d8f;
+    background-color: #2a9d8f;
+    color: white;
+}
+
+section div .reset{
+    border: 1px solid #e63946;
+    background-color: white;
+    color: #e63946;
+}
